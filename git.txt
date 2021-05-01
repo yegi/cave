@@ -1,0 +1,6 @@
+1. git clone https://GITHUB_REPO_URL - clone existing repo from your github account to your pc
+2. git status - check status of the local repo
+3. git add * - add to a staging (to be commited)
+4. git commit -m "Message" - create commit
+5. git push (should be enough if not: git push origin master)
+
