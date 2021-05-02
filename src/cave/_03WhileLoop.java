@@ -2,7 +2,7 @@ package cave;
 
 public class _03WhileLoop {
 	public static void main(String[] args) {
-		System.out.println("Select code, press ctrl+Shift+f - everything will be perfectly formatted.");
+		System.out.println("Press ctrl+Shift+f - everything will be perfectly formatted.");
 
 		boolean loop = true;
 		boolean loop1 = 4 < 5;
