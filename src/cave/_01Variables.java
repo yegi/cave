@@ -3,13 +3,13 @@ package cave;
 public class _01Variables {
 
 	public static void main(String[] args) {
-	//Variables are like boxes, you can put value in
-		//for different kind of variables you need different type of boxes
+
 		
-		
+		System.out.println("Variables are like boxes, you can put value in. ");
+		System.out.println("There are different type of 'boxes' to store different type of data");
 		System.out.println("There are 8 primitive types of variables in JAVA.");
 		
-		//in 2^32 - from -32k to 32k 
+		
 		int myInt; //declaration of variable
 		myInt = 32000; //initialization of variable
 		
