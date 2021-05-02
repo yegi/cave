@@ -27,7 +27,13 @@ public class _02Strings {
 		
 		int nr = 5;
 		
-		System.out.println("String + int" +number+nr);
+		System.out.println("String + int " +number+nr);
+		
+		
+		double pi = 3.14;
+		
+		
+		System.out.println("Pi = " +pi);
 		
 	}
 
